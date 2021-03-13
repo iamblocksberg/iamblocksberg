@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: :P
 -->
 
-(https://blockz.medium.com/some-useful-vs-code-extensions-for-frontend-developer-ae830c5a0180)[Some useful VS Code Extensions for Frontend Developer]
+[Some useful VS Code Extensions for Frontend Developer](https://blockz.medium.com/some-useful-vs-code-extensions-for-frontend-developer-ae830c5a0180)
