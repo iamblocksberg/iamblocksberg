@@ -11,5 +11,5 @@
 
 -----
 
-###My Medium###
+### My Medium
 - [Some useful VS Code Extensions for Frontend Developer](https://blockz.medium.com/some-useful-vs-code-extensions-for-frontend-developer-ae830c5a0180)
