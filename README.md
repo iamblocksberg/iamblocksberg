@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about everthing
 - 📫 How to reach me: here
-- 😄 Pronouns: Soon
+- 😄 Pronouns: https://blocksberg-dw.web.app/
 - ⚡ Fun fact: :P
 
 -----
