@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**iamblocksberg/iamblocksberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 ✨✨✨
 
 - 🔭 I’m currently working on some startup company in Bangkok, Thailand
 - 🌱 I’m currently learning Flutter, Vue.js, Unreal Engine, Unity
@@ -13,6 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here
 - 😄 Pronouns: Soon
 - ⚡ Fun fact: :P
--->
 
-[Some useful VS Code Extensions for Frontend Developer](https://blockz.medium.com/some-useful-vs-code-extensions-for-frontend-developer-ae830c5a0180)
+-----
+
+###My Medium###
+- [Some useful VS Code Extensions for Frontend Developer](https://blockz.medium.com/some-useful-vs-code-extensions-for-frontend-developer-ae830c5a0180)
